@@ -1,0 +1,2 @@
+1. Classification - preliminary processing of the dataset, creation of a tf-idf model, conversion of texts into vectors, classification of texts using logistic regression. As a result, the rating of the film is obtained.
+2. Similar text - preparation of dataset for processing, creation of tf-idf model and vectorization of texts. Specifying a search request to find similar texts. As a result, there are 10 texts closest to the query vector.
